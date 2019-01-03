@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/_clean_html/sites/front-end-shop-template-init-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_clean_html/sites/kinozal-template-init-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_clean_html/sites/landing-page-template-init-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_clean_html/sites/simple-template-init-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_clean_html/sites/site-template-init-project" vcs="Git" />
+  </component>
+</project>

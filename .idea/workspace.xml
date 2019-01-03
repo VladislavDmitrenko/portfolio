@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="675130c0-8a84-44ba-a64f-7b9b2ce4656f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/accessible-icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/buromobelexperte.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/creative-commons-by.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/creative-commons-nc-eu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/creative-commons-nc-jp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/creative-commons-nc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/creative-commons-nd.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/creative-commons-pd-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/creative-commons-pd.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/creative-commons-remix.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/creative-commons-sa.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/creative-commons-sampling-plus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/creative-commons-sampling.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/creative-commons-share.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/creative-commons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/dribbble-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/facebook-messenger.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/facebook-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/first-order-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/font-awesome-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/font-awesome-flag.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/font-awesome-logo-full.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/fort-awesome-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/galactic-republic.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/galactic-senate.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/google-plus-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/hacker-news-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/internet-explorer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/nintendo-switch.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/odnoklassniki-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/phoenix-framework.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/phoenix-squadron.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/pinterest-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/snapchat-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/stumbleupon-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/trade-federation.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/whatsapp-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/wolf-pack-battalion.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/wordpress-simple.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/yandex-international.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/arrow-alt-circle-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/arrow-alt-circle-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/arrow-alt-circle-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/arrow-alt-circle-up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/calendar-check.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/calendar-minus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/calendar-times.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/caret-square-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/caret-square-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/caret-square-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/caret-square-up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/closed-captioning.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/file-powerpoint.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/font-awesome-logo-full.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/grin-beam-sweat.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/grin-squint-tears.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/grin-tongue-squint.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/grin-tongue-wink.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/hand-point-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/hand-point-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/hand-point-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/kiss-wink-heart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/meh-rolling-eyes.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/money-bill-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/object-ungroup.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/question-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/window-maximize.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/window-minimize.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/window-restore.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/american-sign-language-interpreting.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/angle-double-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/angle-double-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/angle-double-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/arrow-alt-circle-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/arrow-alt-circle-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/arrow-alt-circle-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/arrow-alt-circle-up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/arrow-circle-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/arrow-circle-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/arrow-circle-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/assistive-listening-systems.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/audio-description.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/battery-three-quarters.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/briefcase-medical.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/caret-square-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/caret-square-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/caret-square-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/chalkboard-teacher.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/charging-station.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/chevron-circle-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/chevron-circle-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/chevron-circle-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/chevron-circle-up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/closed-captioning.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/cloud-download-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/cloud-upload-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/digital-tachograph.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/drafting-compass.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/envelope-open-text.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/exclamation-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/exclamation-triangle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/expand-arrows-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/external-link-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/external-link-square-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/file-invoice-dollar.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/file-medical-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/file-prescription.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/fire-extinguisher.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/font-awesome-logo-full.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/glass-martini-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/greater-than-equal.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/grin-squint-tears.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/grin-tongue-squint.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/grin-tongue-wink.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/hand-holding-heart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/hand-holding-usd.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/hand-point-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/long-arrow-alt-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/long-arrow-alt-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/long-arrow-alt-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/long-arrow-alt-up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/meh-rolling-eyes.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/microphone-alt-slash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/microphone-slash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/money-bill-wave-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/place-of-worship.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/prescription-bottle-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/prescription-bottle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/ruler-horizontal.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/share-alt-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/signal-alt-slash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/sort-amount-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/sort-numeric-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/star-and-crescent.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/suitcase-rolling.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/thermometer-empty.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/thermometer-full.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/thermometer-half.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/thermometer-quarter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/thermometer-three-quarters.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/universal-access.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-brands-svg-icons/faCreativeCommonsNcEu.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-brands-svg-icons/faCreativeCommonsNcJp.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-brands-svg-icons/faCreativeCommonsPdAlt.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-brands-svg-icons/faCreativeCommonsRemix.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-brands-svg-icons/faCreativeCommonsSampling.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-brands-svg-icons/faCreativeCommonsSampling.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-brands-svg-icons/faCreativeCommonsSamplingPlus.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-brands-svg-icons/faCreativeCommonsSamplingPlus.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-brands-svg-icons/faCreativeCommonsShare.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-brands-svg-icons/faFontAwesomeLogoFull.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-brands-svg-icons/faOdnoklassnikiSquare.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-brands-svg-icons/faYandexInternational.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-regular-svg-icons/faArrowAltCircleDown.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-regular-svg-icons/faArrowAltCircleLeft.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-regular-svg-icons/faArrowAltCircleRight.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-regular-svg-icons/faFontAwesomeLogoFull.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-solid-svg-icons/faAmericanSignLanguageInterpreting.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-solid-svg-icons/faAmericanSignLanguageInterpreting.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-solid-svg-icons/faAssistiveListeningSystems.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-solid-svg-icons/faAssistiveListeningSystems.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-solid-svg-icons/faBatteryThreeQuarters.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-solid-svg-icons/faExternalLinkSquareAlt.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-solid-svg-icons/faPrescriptionBottleAlt.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-solid-svg-icons/faThermometerThreeQuarters.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/grid-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-solid-svg-icons/faThermometerThreeQuarters.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/accessible-icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/buromobelexperte.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/creative-commons-by.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/creative-commons-nc-eu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/creative-commons-nc-jp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/creative-commons-nc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/creative-commons-nd.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/creative-commons-pd-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/creative-commons-pd.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/creative-commons-remix.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/creative-commons-sa.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/creative-commons-sampling-plus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/creative-commons-sampling.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/creative-commons-share.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/creative-commons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/dribbble-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/facebook-messenger.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/facebook-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/first-order-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/font-awesome-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/font-awesome-flag.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/font-awesome-logo-full.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/fort-awesome-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/galactic-republic.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/galactic-senate.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/google-plus-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/hacker-news-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/internet-explorer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/nintendo-switch.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/odnoklassniki-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/phoenix-framework.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/phoenix-squadron.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/pinterest-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/snapchat-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/stumbleupon-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/trade-federation.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/whatsapp-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/wolf-pack-battalion.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/wordpress-simple.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/brands/yandex-international.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/arrow-alt-circle-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/arrow-alt-circle-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/arrow-alt-circle-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/arrow-alt-circle-up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/calendar-check.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/calendar-minus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/calendar-times.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/caret-square-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/caret-square-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/caret-square-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/caret-square-up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/closed-captioning.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/file-powerpoint.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/font-awesome-logo-full.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/grin-beam-sweat.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/grin-squint-tears.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/grin-tongue-squint.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/grin-tongue-wink.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/hand-point-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/hand-point-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/hand-point-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/kiss-wink-heart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/meh-rolling-eyes.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/money-bill-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/object-ungroup.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/question-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/window-maximize.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/window-minimize.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/regular/window-restore.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/american-sign-language-interpreting.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/angle-double-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/angle-double-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/angle-double-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/arrow-alt-circle-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/arrow-alt-circle-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/arrow-alt-circle-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/arrow-alt-circle-up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/arrow-circle-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/arrow-circle-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/arrow-circle-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/assistive-listening-systems.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/audio-description.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/battery-three-quarters.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/briefcase-medical.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/caret-square-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/caret-square-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/caret-square-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/chalkboard-teacher.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/charging-station.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/chevron-circle-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/chevron-circle-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/chevron-circle-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/chevron-circle-up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/closed-captioning.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/cloud-download-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/cloud-upload-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/digital-tachograph.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/drafting-compass.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/envelope-open-text.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/exclamation-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/exclamation-triangle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/expand-arrows-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/external-link-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/external-link-square-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/file-invoice-dollar.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/file-medical-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/file-prescription.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/fire-extinguisher.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/font-awesome-logo-full.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/glass-martini-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/greater-than-equal.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/grin-squint-tears.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/grin-tongue-squint.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/grin-tongue-wink.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/hand-holding-heart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/hand-holding-usd.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/hand-point-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/long-arrow-alt-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/long-arrow-alt-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/long-arrow-alt-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/long-arrow-alt-up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/meh-rolling-eyes.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/microphone-alt-slash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/microphone-slash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/money-bill-wave-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/place-of-worship.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/prescription-bottle-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/prescription-bottle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/ruler-horizontal.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/share-alt-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/signal-alt-slash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/sort-amount-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/sort-numeric-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/star-and-crescent.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/suitcase-rolling.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/thermometer-empty.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/thermometer-full.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/thermometer-half.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/thermometer-quarter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/thermometer-three-quarters.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free/svgs/solid/universal-access.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-brands-svg-icons/faCreativeCommonsNcEu.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-brands-svg-icons/faCreativeCommonsNcJp.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-brands-svg-icons/faCreativeCommonsPdAlt.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-brands-svg-icons/faCreativeCommonsRemix.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-brands-svg-icons/faCreativeCommonsSampling.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-brands-svg-icons/faCreativeCommonsSampling.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-brands-svg-icons/faCreativeCommonsSamplingPlus.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-brands-svg-icons/faCreativeCommonsSamplingPlus.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-brands-svg-icons/faCreativeCommonsShare.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-brands-svg-icons/faFontAwesomeLogoFull.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-brands-svg-icons/faOdnoklassnikiSquare.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-brands-svg-icons/faYandexInternational.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-regular-svg-icons/faArrowAltCircleDown.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-regular-svg-icons/faArrowAltCircleLeft.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-regular-svg-icons/faArrowAltCircleRight.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-regular-svg-icons/faFontAwesomeLogoFull.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-solid-svg-icons/faAmericanSignLanguageInterpreting.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-solid-svg-icons/faAmericanSignLanguageInterpreting.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-solid-svg-icons/faAssistiveListeningSystems.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-solid-svg-icons/faAssistiveListeningSystems.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-solid-svg-icons/faBatteryThreeQuarters.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-solid-svg-icons/faExternalLinkSquareAlt.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-solid-svg-icons/faPrescriptionBottleAlt.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-solid-svg-icons/faThermometerThreeQuarters.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_clean_html/sites/site-template-init-project/libs/fontawesome/advanced-options/use-with-node-js/free-solid-svg-icons/faThermometerThreeQuarters.js" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/___MyTheme_ready/MyTheme/style.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/___MyTheme_ready/MyTheme/index.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/_clean_html/sites/front-end-shop-template-init-project" />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="683" />
+    <option name="width" value="683" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wordpress-landing-page-lesson-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress-landing-page-lesson-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordpress-landing-page-lesson-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress-landing-page-lesson-master" type="462c0819:PsiDirectoryNode" />
+              <item name="___MyTheme_ready" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordpress-landing-page-lesson-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress-landing-page-lesson-master" type="462c0819:PsiDirectoryNode" />
+              <item name="___MyTheme_ready" type="462c0819:PsiDirectoryNode" />
+              <item name="MyTheme" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="675130c0-8a84-44ba-a64f-7b9b2ce4656f" name="Default Changelist" comment="" />
+      <created>1546368949007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546368949007</updated>
+      <workItem from="1546368951440" duration="1309000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1309000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1172466" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/___MyTheme_ready/MyTheme/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/___MyTheme_ready/MyTheme/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
